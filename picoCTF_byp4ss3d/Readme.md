@@ -23,3 +23,7 @@ A university's online registration portal asks students to upload their ID cards
 - Once the web shell is uploaded and accessed through the browser:
   - Arbitrary system commands can be executed on the server.
   - This results in full command execution and completion of the challenge.
+
+## Reference:
+
+- https://httpd.apache.org/docs/2.4/mod/core.html
